@@ -133,7 +133,7 @@ SCT_DA_1/
 ## 🚀 How to Run & View
 
 1. **Clone the repository:**
-   ```bash
+  ```bash
    git clone [https://github.com/tyagi-4080/SCT_DA_1.git](https://github.com/tyagi-4080/SCT_DA_1.git)
    cd SCT_DA_1
    ```
