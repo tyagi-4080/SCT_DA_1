@@ -1,4 +1,4 @@
-# SCT_DA_1: Interactive Excel Sales Dashboard
+#  Interactive Excel Sales Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-0078D4?style=for-the-badge)
